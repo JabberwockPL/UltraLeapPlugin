@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltraLeapPlugin", "UltraLeapPlugin\UltraLeapPlugin.csproj", "{E7CA56C8-02AA-4A84-A371-8A093A3D45AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7CA56C8-02AA-4A84-A371-8A093A3D45AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CA56C8-02AA-4A84-A371-8A093A3D45AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CA56C8-02AA-4A84-A371-8A093A3D45AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CA56C8-02AA-4A84-A371-8A093A3D45AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DCCE424-1F1E-414C-B0E8-0481C26AF8B0}
+	EndGlobalSection
+EndGlobal
