@@ -1,4 +1,4 @@
-Leap Motion/UltraLeap plugin for FreePIE
+Leap Motion/Ultraleap plugin for FreePIE
 =========
 
 FreePIE plugin for Leap Motion/UltraLeap
